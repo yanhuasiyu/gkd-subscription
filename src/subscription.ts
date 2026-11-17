@@ -5,7 +5,7 @@ import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
   id: 285062796,
-  name: '本地调试规则合集(CAD看图王+抖音+向日葵)',
+  name: 'ADong的GDK订阅',
   version: 1,
   author: '20984557',
   supportUri: 'https://github.com/yanhuasiyu/gkd-subscription',
